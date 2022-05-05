@@ -1,5 +1,5 @@
 # Dice
-Are you really ready to play "The infinite roll dice?". Today we will see if luck is on your side and what your destiny has prepared for you. 
+re you really ready to play "The infinite roll dice?". Today we will see if luck is on your side and what your destiny has prepared for you. 
 The rules are very simple, just roll the dice. If you get the number "1", you win 100 points and if you get the number "5", you win 50 points. 
 But be careful!, you can only keep rolling dice if you get any 1 or 5 during the turn, otherwise, the game is over. Good luck to you.
 
